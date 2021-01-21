@@ -1,0 +1,1 @@
+﻿Set-AzureRmWebApp -Name <webapp name> -ResourceGroupName <resource group name> -HostNames @(<"host names">)
